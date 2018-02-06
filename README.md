@@ -36,8 +36,8 @@ Just call `u-mandelbrot` and follow the instructions. Please be patient
 ## Commentary / Disclaimer:
 
 This is the result of weekend work. Don't expect too much. It does not
-make use of any fancy tricks. It just applies the `$z \rightarrow z^2 +
-z_0$` algorithm in a brute force way.
+make use of any fancy tricks. It just applies the `$`z \rightarrow z^2 +
+z_0`$` algorithm in a brute force way.
 
 The "ascii color-table" is quite poor. It should be enlarged.
 
@@ -48,5 +48,5 @@ Apparently it runs faster with XEmacs... (!?)
 
 ## History:
 
-1.0: Initial release
+* 1.0: Initial release
 
